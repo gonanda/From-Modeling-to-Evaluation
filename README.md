@@ -10,7 +10,7 @@ This Jupyter Notebook is a hands-on project performed during the data science me
 
 * Jupyter Notebook
 * Python 3
-* Python libraries: Pandas, Numby, Matplotlib, Seaborn, sklearn
+* Python libraries: Pandas, Numpy, Matplotlib, Seaborn, sklearn
 
 ### Installing
 
